@@ -62,7 +62,12 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=fabnew15-fr&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=fabnew15-fr&redirect=true" /></div>  
+<div align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=fabnew15-fr&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=fabnew15-fr&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile"/>
+  </a>
+</div>
+  
 
 <br/>  
 
