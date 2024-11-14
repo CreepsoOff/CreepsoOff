@@ -62,7 +62,7 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=fabnew15-fr&cover_image=true&theme=default&bar_color_cover=true" /></div>  
+<div align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=fabnew15-fr&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=fabnew15-fr&redirect=true" /></div>  
 
 <br/>  
 
